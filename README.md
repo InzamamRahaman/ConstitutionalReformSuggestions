@@ -11,6 +11,12 @@ Six distinct principles underpin my recommendations:
    
 
 ## Removal of First-Past-The-Post Voting
+1. Balloting should proceed using the Ranked Pairs method, also called Tideman's method, instead of First-Past-The-Post. The Ranked Pairs method avoids many structural defiecincies of FPTP by:
+   * Reducing the spoiler effect
+   * More precisely representing the preferences of the electorate
+   * Reducing tactical and insincere voting
+   * Encouraging a poor diverse pool of candidates
+   * Embodying incentives to discourage mud-slinging and polarized behaviours 
 
 ## Election Frequencies and Dates
 1. General elections should held every four years on a fixed date (e.g. The third Monday in October).
@@ -37,6 +43,8 @@ Six distinct principles underpin my recommendations:
 2. Failure to conduct these consultations for three months during the term would constitute a dereliction of duty and trigger a by-election for the seat.
 
 ## Recall mechanisms for both Parliament and Cabinet 
+1. An MP should directly recalled by collecting 10,000 signatures from residents of their constituency
+2. A member of Cabinet can be recalled by collecting 20,000 signatures from voting age citizens of Trinidad and Tobago
 
 ## Expert Advisory Boards for Cabinet 
 1. Each Minister is to assemble an advisory board comprised of
@@ -44,10 +52,9 @@ Six distinct principles underpin my recommendations:
    b. no more than nine voluntary members from academia, industry, and civil society
 2. The advisory board should convene every month to provide feedback and advice. This feedback and advice is to be minuted and delivered to the Minister. This feedback and advice is to be public record
 
-## Fixed Dates for both Local and General Elections (excepting By-elections forced by Recalls/Resignation/Death/Unfit for service)
-
-
-
-
+## Participatory Budgetting
 
 ## Campaign Finance Reform
+
+## Day Fines
+Day fines are a monetary penalty system based on the principle of proportionality, aiming to make fines equitable regardless of the offender's financial status. The fine amount is determined by the severity of the offense and the offender's daily income, ensuring that the financial impact is comparable for individuals with different income levels. This approach seeks to balance the punitive effect of fines and maintain fairness in the justice system. The constitution should make explicit provisions for the implementation of day fines
